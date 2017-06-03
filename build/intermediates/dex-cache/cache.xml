@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6f3accc3189b7d5ec6c725ca30e92702803f5b32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/.android/build-cache/671533ee176ff05a654d45c4c31309629fea6104/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27bb0081ea2fc5959a8ad1c39f5701c8e0478c97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_8aeec2ff293f1a7c512dd7b4c17a52a953cd3fdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/.android/build-cache/049490e24a38257ee25e1c2cd0eedbc3c677d7a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae9d6a6c86fbc565a5838c46a2b675a0458f0b92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_1b9195b90d022e47de800499c4fe4c1dee063716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/.android/build-cache/9c7671161060f2f6ac5efeeb0d71cedae0980b79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0decd245f6288398a21bd1b733aa59e03c711faf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/.android/build-cache/c2da057a5e33c64bbab126205f14fb58f2ed7719/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cb37f88f2364d1106f3bee898e0991e1720ee6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/.android/build-cache/15dcfeb5bcfd367a6c6e15897479e3a8864ff5a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71ca20488bfe520520ac20234859e87dcf436e02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/.android/build-cache/97591d4ef50317c737b0f63778e788b3f7fbaebd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddf94f4ac0778086eec09922be9506304746fc80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/.android/build-cache/6f497fc088899a7d194569372100f75605595d6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_565e16831a27cad7d5b5f1c1dba0bbaf39758070/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/.android/build-cache/57528eb8c927ef3e37ceccde0b860de16d40ccbb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fed22d0bec6194e0b69c3cf35563cf6937a9395b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/.android/build-cache/4bfba95e5a4e88537b4ffaa122741c5021216120/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_785fe62d8af09dc53937dc21ec864f1d9f3769b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca3b8fba678c3bff6ad7c19f37d92f371ebc99b4">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_90d0cbabe82a0a19b45e1e68dbde036f9f593d52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anandj/.android/build-cache/54981154adf9863b36004fcc132b1ecb797da12b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/anandj/AndroidStudioProjects/SoundBoard/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbc35c54a2c4c5994b2f39e7847b94cc1bdd87b9/classes.dex" />
+    </item>
+
+</items>
